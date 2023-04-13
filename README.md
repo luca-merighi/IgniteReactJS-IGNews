@@ -4,5 +4,5 @@ Projeto da trilha **Ignite ReactJS** onde desenvolvemos um blog com o framework 
 
 ### Aplicação construída com:
 <div>
-  <img src="/techs.png">
+  <img src="/public/techs.png">
 </div>
